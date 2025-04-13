@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Aldayud</h1>
 <h3 align="center">A passionate Computer Engineering From Saudi Arabia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-althuwaini&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-althuwaini" /> </p>
-
-
 - 📫 How to reach me **mfaldayud@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
