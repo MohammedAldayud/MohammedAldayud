@@ -1,20 +1,15 @@
-<h1 align="center">Hi 👋, I'm Faisal Althuwaini</h1>
-<h3 align="center">A passionate Frontend developer and Graphics designer from Saudi arabia</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Aldayud</h1>
+<h3 align="center">A passionate Computer Engineering From Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-althuwaini&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-althuwaini" /> </p>
 
-- 🔭 I’m currently working on [Sultan Al-Jrboa portfolio](https://sultanaljrboa.tech)
 
-- 🌱 I’m currently learning **ReactJS, Backend development**
-
-- 💬 Ask me about **Landing pages, portfolios**
-
-- 📫 How to reach me **faisal.yalthuwaini@gmail.com**
+- 📫 How to reach me **mfaldayud@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rocket_faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rocket_faisal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faisal-al-thuwaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal-al-thuwaini" height="30" width="40" /></a>
+<a href="https://twitter.com/190Mf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rocket_faisal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Mohammed Aldayud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal-al-thuwaini" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
